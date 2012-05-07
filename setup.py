@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Opengear.MIBs"
 VERSION = "1.0"
 AUTHOR = "Peter Hunt <support@opengear.com>"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Opengear']
 PACKAGES = ['ZenPacks', 'ZenPacks.Opengear', 'ZenPacks.Opengear.MIBs']
 INSTALL_REQUIRES = []
